@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DasunWebDev
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently MERN Stack ...
+- 👋 Hi, I’m Dasun Samarakoon from Sri Lanka
+- 👀 I’m interested in django and react js
+- 🌱 I’m currently learning django and react libraries
